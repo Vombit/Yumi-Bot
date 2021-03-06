@@ -1,0 +1,1076 @@
+[9:12:1] [Log] Загружены 23 комманды:
+[9:12:1] [Log] 1.1_backdoor.js 
+[9:12:1] [Log] 2.1_ping.js 
+[9:12:1] [Log] 3.1_serverlist.js 
+[9:12:1] [Log] 4.2_ban.js 
+[9:12:1] [Log] 5.2_clear.js 
+[9:12:1] [Log] 6.2_kick.js 
+[9:12:1] [Log] 7.2_say_b.js 
+[9:12:1] [Log] 8.2_unwarn.js 
+[9:12:1] [Log] 9.2_warn.js 
+[9:12:1] [Log] 10.3_bug.js 
+[9:12:1] [Log] 11.3_ping.js 
+[9:12:1] [Log] 12.3_report.js 
+[9:12:1] [Log] 13.3_serverroles.js 
+[9:12:1] [Log] 14.3_userinfo.js 
+[9:12:1] [Log] 15.5_8ball.js 
+[9:12:1] [Log] 16.5_get_avatar.js 
+[9:12:1] [Log] 17.help1.js 
+[9:12:1] [Log] 18.serverinfo copy.js 
+[9:12:1] [Log] 19.serverinfo.js 
+[9:12:1] [Log] 20.w_choose.js 
+[9:12:1] [Log] 21.w_randomUser.js 
+[9:12:1] [Log] 22.w_shop.js 
+[9:12:1] [Log] 23.w_tableflip.js 
+[9:12:1] [Log] Приветик, Я Yumi
+[9:13:18] [Log] Загружены 23 комманды:
+[9:13:18] [Log] 1.1_backdoor.js 
+[9:13:18] [Log] 2.1_ping.js 
+[9:13:18] [Log] 3.1_serverlist.js 
+[9:13:18] [Log] 4.2_ban.js 
+[9:13:18] [Log] 5.2_clear.js 
+[9:13:18] [Log] 6.2_kick.js 
+[9:13:18] [Log] 7.2_say_b.js 
+[9:13:18] [Log] 8.2_unwarn.js 
+[9:13:18] [Log] 9.2_warn.js 
+[9:13:18] [Log] 10.3_bug.js 
+[9:13:18] [Log] 11.3_ping.js 
+[9:13:18] [Log] 12.3_report.js 
+[9:13:18] [Log] 13.3_serverroles.js 
+[9:13:18] [Log] 14.3_userinfo.js 
+[9:13:18] [Log] 15.5_8ball.js 
+[9:13:18] [Log] 16.5_get_avatar.js 
+[9:13:18] [Log] 17.help1.js 
+[9:13:18] [Log] 18.serverinfo copy.js 
+[9:13:18] [Log] 19.serverinfo.js 
+[9:13:18] [Log] 20.w_choose.js 
+[9:13:18] [Log] 21.w_randomUser.js 
+[9:13:18] [Log] 22.w_shop.js 
+[9:13:18] [Log] 23.w_tableflip.js 
+[9:13:18] [Log] Приветик, Я Yumi
+[9:14:37] [Log] Загружены 23 комманды:
+[9:14:37] [Log] 1.1_backdoor.js 
+[9:14:37] [Log] 2.1_ping.js 
+[9:14:37] [Log] 3.1_serverlist.js 
+[9:14:37] [Log] 4.2_ban.js 
+[9:14:37] [Log] 5.2_clear.js 
+[9:14:37] [Log] 6.2_kick.js 
+[9:14:37] [Log] 7.2_say_b.js 
+[9:14:37] [Log] 8.2_unwarn.js 
+[9:14:37] [Log] 9.2_warn.js 
+[9:14:37] [Log] 10.3_bug.js 
+[9:14:37] [Log] 11.3_ping.js 
+[9:14:37] [Log] 12.3_report.js 
+[9:14:37] [Log] 13.3_serverroles.js 
+[9:14:37] [Log] 14.3_userinfo.js 
+[9:14:37] [Log] 15.5_8ball.js 
+[9:14:37] [Log] 16.5_get_avatar.js 
+[9:14:37] [Log] 17.help1.js 
+[9:14:37] [Log] 18.serverinfo copy.js 
+[9:14:37] [Log] 19.serverinfo.js 
+[9:14:37] [Log] 20.w_choose.js 
+[9:14:37] [Log] 21.w_randomUser.js 
+[9:14:37] [Log] 22.w_shop.js 
+[9:14:37] [Log] 23.w_tableflip.js 
+[9:14:37] [Log] Приветик, Я Yumi
+[9:22:28] [Log] Загружены 23 комманды:
+[9:22:28] [Log] 1.1_backdoor.js 
+[9:22:28] [Log] 2.1_ping.js 
+[9:22:28] [Log] 3.1_serverlist.js 
+[9:22:28] [Log] 4.2_ban.js 
+[9:22:28] [Log] 5.2_clear.js 
+[9:22:28] [Log] 6.2_kick.js 
+[9:22:28] [Log] 7.2_say_b.js 
+[9:22:28] [Log] 8.2_unwarn.js 
+[9:22:28] [Log] 9.2_warn.js 
+[9:22:28] [Log] 10.3_bug.js 
+[9:22:28] [Log] 11.3_ping.js 
+[9:22:28] [Log] 12.3_report.js 
+[9:22:28] [Log] 13.3_serverroles.js 
+[9:22:28] [Log] 14.3_userinfo.js 
+[9:22:28] [Log] 15.5_8ball.js 
+[9:22:28] [Log] 16.5_get_avatar.js 
+[9:22:28] [Log] 17.help1.js 
+[9:22:28] [Log] 18.serverinfo copy.js 
+[9:22:28] [Log] 19.serverinfo.js 
+[9:22:28] [Log] 20.w_choose.js 
+[9:22:28] [Log] 21.w_randomUser.js 
+[9:22:28] [Log] 22.w_shop.js 
+[9:22:28] [Log] 23.w_tableflip.js 
+[9:22:28] [Log] Приветик, Я Yumi
+[9:23:33] [Log] Загружены 23 комманды:
+[9:23:33] [Log] 1.1_backdoor.js 
+[9:23:33] [Log] 2.1_ping.js 
+[9:23:33] [Log] 3.1_serverlist.js 
+[9:23:33] [Log] 4.2_ban.js 
+[9:23:33] [Log] 5.2_clear.js 
+[9:23:33] [Log] 6.2_kick.js 
+[9:23:33] [Log] 7.2_say_b.js 
+[9:23:33] [Log] 8.2_unwarn.js 
+[9:23:33] [Log] 9.2_warn.js 
+[9:23:33] [Log] 10.3_bug.js 
+[9:23:33] [Log] 11.3_ping.js 
+[9:23:33] [Log] 12.3_report.js 
+[9:23:33] [Log] 13.3_serverroles.js 
+[9:23:33] [Log] 14.3_userinfo.js 
+[9:23:33] [Log] 15.5_8ball.js 
+[9:23:33] [Log] 16.5_get_avatar.js 
+[9:23:33] [Log] 17.help1.js 
+[9:23:33] [Log] 18.serverinfo copy.js 
+[9:23:33] [Log] 19.serverinfo.js 
+[9:23:33] [Log] 20.w_choose.js 
+[9:23:33] [Log] 21.w_randomUser.js 
+[9:23:33] [Log] 22.w_shop.js 
+[9:23:33] [Log] 23.w_tableflip.js 
+[9:23:33] [Log] Приветик, Я Yumi
+[9:24:2] [Log] Загружены 23 комманды:
+[9:24:2] [Log] 1.1_backdoor.js 
+[9:24:2] [Log] 2.1_ping.js 
+[9:24:2] [Log] 3.1_serverlist.js 
+[9:24:2] [Log] 4.2_ban.js 
+[9:24:2] [Log] 5.2_clear.js 
+[9:24:2] [Log] 6.2_kick.js 
+[9:24:2] [Log] 7.2_say_b.js 
+[9:24:2] [Log] 8.2_unwarn.js 
+[9:24:2] [Log] 9.2_warn.js 
+[9:24:2] [Log] 10.3_bug.js 
+[9:24:2] [Log] 11.3_ping.js 
+[9:24:2] [Log] 12.3_report.js 
+[9:24:2] [Log] 13.3_serverroles.js 
+[9:24:2] [Log] 14.3_userinfo.js 
+[9:24:2] [Log] 15.5_8ball.js 
+[9:24:2] [Log] 16.5_get_avatar.js 
+[9:24:2] [Log] 17.help1.js 
+[9:24:2] [Log] 18.serverinfo copy.js 
+[9:24:2] [Log] 19.serverinfo.js 
+[9:24:2] [Log] 20.w_choose.js 
+[9:24:2] [Log] 21.w_randomUser.js 
+[9:24:2] [Log] 22.w_shop.js 
+[9:24:2] [Log] 23.w_tableflip.js 
+[9:24:2] [Log] Приветик, Я Yumi
+[17:21:34] [Log] Загружены 23 комманды:
+[17:21:34] [Log] 1.1_backdoor.js 
+[17:21:34] [Log] 2.1_ping.js 
+[17:21:34] [Log] 3.1_serverlist.js 
+[17:21:34] [Log] 4.2_ban.js 
+[17:21:34] [Log] 5.2_clear.js 
+[17:21:34] [Log] 6.2_kick.js 
+[17:21:34] [Log] 7.2_say_b.js 
+[17:21:34] [Log] 8.2_unwarn.js 
+[17:21:34] [Log] 9.2_warn.js 
+[17:21:34] [Log] 10.3_bug.js 
+[17:21:34] [Log] 11.3_ping.js 
+[17:21:34] [Log] 12.3_report.js 
+[17:21:34] [Log] 13.3_serverroles.js 
+[17:21:34] [Log] 14.3_userinfo.js 
+[17:21:34] [Log] 15.5_8ball.js 
+[17:21:34] [Log] 16.5_get_avatar.js 
+[17:21:34] [Log] 17.help1.js 
+[17:21:34] [Log] 18.serverinfo copy.js 
+[17:21:34] [Log] 19.serverinfo.js 
+[17:21:34] [Log] 20.w_choose.js 
+[17:21:34] [Log] 21.w_randomUser.js 
+[17:21:34] [Log] 22.w_shop.js 
+[17:21:34] [Log] 23.w_tableflip.js 
+[17:21:34] [Log] Приветик, Я Yumi
+[17:22:10] [Log] Загружены 23 комманды:
+[17:22:10] [Log] 1.1_backdoor.js 
+[17:22:10] [Log] 2.1_ping.js 
+[17:22:10] [Log] 3.1_serverlist.js 
+[17:22:10] [Log] 4.2_ban.js 
+[17:22:10] [Log] 5.2_clear.js 
+[17:22:10] [Log] 6.2_kick.js 
+[17:22:10] [Log] 7.2_say_b.js 
+[17:22:10] [Log] 8.2_unwarn.js 
+[17:22:10] [Log] 9.2_warn.js 
+[17:22:10] [Log] 10.3_bug.js 
+[17:22:10] [Log] 11.3_ping.js 
+[17:22:10] [Log] 12.3_report.js 
+[17:22:10] [Log] 13.3_serverroles.js 
+[17:22:10] [Log] 14.3_userinfo.js 
+[17:22:10] [Log] 15.5_8ball.js 
+[17:22:10] [Log] 16.5_get_avatar.js 
+[17:22:10] [Log] 17.help1.js 
+[17:22:10] [Log] 18.serverinfo copy.js 
+[17:22:10] [Log] 19.serverinfo.js 
+[17:22:10] [Log] 20.w_choose.js 
+[17:22:10] [Log] 21.w_randomUser.js 
+[17:22:10] [Log] 22.w_shop.js 
+[17:22:10] [Log] 23.w_tableflip.js 
+[17:22:10] [Log] Приветик, Я Yumi
+[17:27:2] [Log] Загружены 23 комманды:
+[17:27:2] [Log] 1.1_backdoor.js 
+[17:27:2] [Log] 2.1_ping.js 
+[17:27:2] [Log] 3.1_serverlist.js 
+[17:27:2] [Log] 4.2_ban.js 
+[17:27:2] [Log] 5.2_clear.js 
+[17:27:2] [Log] 6.2_kick.js 
+[17:27:2] [Log] 7.2_say_b.js 
+[17:27:2] [Log] 8.2_unwarn.js 
+[17:27:2] [Log] 9.2_warn.js 
+[17:27:2] [Log] 10.3_bug.js 
+[17:27:2] [Log] 11.3_ping.js 
+[17:27:2] [Log] 12.3_report.js 
+[17:27:2] [Log] 13.3_serverroles.js 
+[17:27:2] [Log] 14.3_userinfo.js 
+[17:27:2] [Log] 15.5_8ball.js 
+[17:27:2] [Log] 16.5_get_avatar.js 
+[17:27:2] [Log] 17.help1.js 
+[17:27:2] [Log] 18.serverinfo copy.js 
+[17:27:2] [Log] 19.serverinfo.js 
+[17:27:2] [Log] 20.w_choose.js 
+[17:27:2] [Log] 21.w_randomUser.js 
+[17:27:2] [Log] 22.w_shop.js 
+[17:27:2] [Log] 23.w_tableflip.js 
+[17:27:2] [Log] Приветик, Я Yumi
+[17:28:47] [Log] Загружены 23 комманды:
+[17:28:47] [Log] 1.1_backdoor.js 
+[17:28:47] [Log] 2.1_ping.js 
+[17:28:47] [Log] 3.1_serverlist.js 
+[17:28:47] [Log] 4.2_ban.js 
+[17:28:47] [Log] 5.2_clear.js 
+[17:28:47] [Log] 6.2_kick.js 
+[17:28:47] [Log] 7.2_say_b.js 
+[17:28:47] [Log] 8.2_unwarn.js 
+[17:28:47] [Log] 9.2_warn.js 
+[17:28:47] [Log] 10.3_bug.js 
+[17:28:47] [Log] 11.3_ping.js 
+[17:28:47] [Log] 12.3_report.js 
+[17:28:47] [Log] 13.3_serverroles.js 
+[17:28:47] [Log] 14.3_userinfo.js 
+[17:28:47] [Log] 15.5_8ball.js 
+[17:28:47] [Log] 16.5_get_avatar.js 
+[17:28:47] [Log] 17.help1.js 
+[17:28:47] [Log] 18.serverinfo copy.js 
+[17:28:47] [Log] 19.serverinfo.js 
+[17:28:47] [Log] 20.w_choose.js 
+[17:28:47] [Log] 21.w_randomUser.js 
+[17:28:47] [Log] 22.w_shop.js 
+[17:28:47] [Log] 23.w_tableflip.js 
+[17:28:47] [Log] Приветик, Я Yumi
+[17:29:33] [Log] Загружены 23 комманды:
+[17:29:33] [Log] 1.1_backdoor.js 
+[17:29:33] [Log] 2.1_ping.js 
+[17:29:33] [Log] 3.1_serverlist.js 
+[17:29:33] [Log] 4.2_ban.js 
+[17:29:33] [Log] 5.2_clear.js 
+[17:29:33] [Log] 6.2_kick.js 
+[17:29:33] [Log] 7.2_say_b.js 
+[17:29:33] [Log] 8.2_unwarn.js 
+[17:29:33] [Log] 9.2_warn.js 
+[17:29:33] [Log] 10.3_bug.js 
+[17:29:33] [Log] 11.3_ping.js 
+[17:29:33] [Log] 12.3_report.js 
+[17:29:33] [Log] 13.3_serverroles.js 
+[17:29:33] [Log] 14.3_userinfo.js 
+[17:29:33] [Log] 15.5_8ball.js 
+[17:29:33] [Log] 16.5_get_avatar.js 
+[17:29:33] [Log] 17.help1.js 
+[17:29:33] [Log] 18.serverinfo copy.js 
+[17:29:33] [Log] 19.serverinfo.js 
+[17:29:33] [Log] 20.w_choose.js 
+[17:29:33] [Log] 21.w_randomUser.js 
+[17:29:33] [Log] 22.w_shop.js 
+[17:29:33] [Log] 23.w_tableflip.js 
+[17:29:33] [Log] Приветик, Я Yumi
+[17:38:32] [Log] Загружены 23 комманды:
+[17:38:32] [Log] 1.1_backdoor.js 
+[17:38:32] [Log] 2.1_ping.js 
+[17:38:32] [Log] 3.1_serverlist.js 
+[17:38:32] [Log] 4.2_ban.js 
+[17:38:32] [Log] 5.2_clear.js 
+[17:38:32] [Log] 6.2_kick.js 
+[17:38:32] [Log] 7.2_say_b.js 
+[17:38:32] [Log] 8.2_unwarn.js 
+[17:38:32] [Log] 9.2_warn.js 
+[17:38:32] [Log] 10.3_bug.js 
+[17:38:32] [Log] 11.3_ping.js 
+[17:38:32] [Log] 12.3_report.js 
+[17:38:32] [Log] 13.3_serverroles.js 
+[17:38:32] [Log] 14.3_userinfo.js 
+[17:38:32] [Log] 15.5_8ball.js 
+[17:38:32] [Log] 16.5_get_avatar.js 
+[17:38:32] [Log] 17.help1.js 
+[17:38:32] [Log] 18.serverinfo copy.js 
+[17:38:32] [Log] 19.serverinfo.js 
+[17:38:32] [Log] 20.w_choose.js 
+[17:38:32] [Log] 21.w_randomUser.js 
+[17:38:32] [Log] 22.w_shop.js 
+[17:38:32] [Log] 23.w_tableflip.js 
+[17:38:32] [Log] Приветик, Я Yumi
+[17:40:12] [Log] Загружены 23 комманды:
+[17:40:12] [Log] 1.1_backdoor.js 
+[17:40:12] [Log] 2.1_ping.js 
+[17:40:12] [Log] 3.1_serverlist.js 
+[17:40:12] [Log] 4.2_ban.js 
+[17:40:12] [Log] 5.2_clear.js 
+[17:40:12] [Log] 6.2_kick.js 
+[17:40:12] [Log] 7.2_say_b.js 
+[17:40:12] [Log] 8.2_unwarn.js 
+[17:40:12] [Log] 9.2_warn.js 
+[17:40:12] [Log] 10.3_bug.js 
+[17:40:12] [Log] 11.3_ping.js 
+[17:40:12] [Log] 12.3_report.js 
+[17:40:12] [Log] 13.3_serverroles.js 
+[17:40:12] [Log] 14.3_userinfo.js 
+[17:40:12] [Log] 15.5_8ball.js 
+[17:40:12] [Log] 16.5_get_avatar.js 
+[17:40:12] [Log] 17.help1.js 
+[17:40:12] [Log] 18.serverinfo copy.js 
+[17:40:12] [Log] 19.serverinfo.js 
+[17:40:12] [Log] 20.w_choose.js 
+[17:40:12] [Log] 21.w_randomUser.js 
+[17:40:12] [Log] 22.w_shop.js 
+[17:40:12] [Log] 23.w_tableflip.js 
+[17:40:12] [Log] Приветик, Я Yumi
+[17:40:33] [Log] Загружены 23 комманды:
+[17:40:33] [Log] 1.1_backdoor.js 
+[17:40:33] [Log] 2.1_ping.js 
+[17:40:33] [Log] 3.1_serverlist.js 
+[17:40:33] [Log] 4.2_ban.js 
+[17:40:33] [Log] 5.2_clear.js 
+[17:40:33] [Log] 6.2_kick.js 
+[17:40:33] [Log] 7.2_say_b.js 
+[17:40:33] [Log] 8.2_unwarn.js 
+[17:40:33] [Log] 9.2_warn.js 
+[17:40:33] [Log] 10.3_bug.js 
+[17:40:33] [Log] 11.3_ping.js 
+[17:40:33] [Log] 12.3_report.js 
+[17:40:33] [Log] 13.3_serverroles.js 
+[17:40:33] [Log] 14.3_userinfo.js 
+[17:40:33] [Log] 15.5_8ball.js 
+[17:40:33] [Log] 16.5_get_avatar.js 
+[17:40:33] [Log] 17.help1.js 
+[17:40:33] [Log] 18.serverinfo copy.js 
+[17:40:33] [Log] 19.serverinfo.js 
+[17:40:33] [Log] 20.w_choose.js 
+[17:40:33] [Log] 21.w_randomUser.js 
+[17:40:33] [Log] 22.w_shop.js 
+[17:40:33] [Log] 23.w_tableflip.js 
+[17:40:33] [Log] Приветик, Я Yumi
+[17:40:33] [Log] ReferenceError
+[17:41:21] [Log] Загружены 23 комманды:
+[17:41:21] [Log] 1.1_backdoor.js 
+[17:41:21] [Log] 2.1_ping.js 
+[17:41:21] [Log] 3.1_serverlist.js 
+[17:41:21] [Log] 4.2_ban.js 
+[17:41:21] [Log] 5.2_clear.js 
+[17:41:21] [Log] 6.2_kick.js 
+[17:41:21] [Log] 7.2_say_b.js 
+[17:41:21] [Log] 8.2_unwarn.js 
+[17:41:21] [Log] 9.2_warn.js 
+[17:41:21] [Log] 10.3_bug.js 
+[17:41:21] [Log] 11.3_ping.js 
+[17:41:21] [Log] 12.3_report.js 
+[17:41:21] [Log] 13.3_serverroles.js 
+[17:41:21] [Log] 14.3_userinfo.js 
+[17:41:21] [Log] 15.5_8ball.js 
+[17:41:21] [Log] 16.5_get_avatar.js 
+[17:41:21] [Log] 17.help1.js 
+[17:41:21] [Log] 18.serverinfo copy.js 
+[17:41:21] [Log] 19.serverinfo.js 
+[17:41:21] [Log] 20.w_choose.js 
+[17:41:21] [Log] 21.w_randomUser.js 
+[17:41:21] [Log] 22.w_shop.js 
+[17:41:21] [Log] 23.w_tableflip.js 
+[17:41:21] [Log] Приветик, Я Yumi
+[17:42:47] [Log] Загружены 23 комманды:
+[17:42:47] [Log] 1.1_backdoor.js 
+[17:42:47] [Log] 2.1_ping.js 
+[17:42:47] [Log] 3.1_serverlist.js 
+[17:42:47] [Log] 4.2_ban.js 
+[17:42:47] [Log] 5.2_clear.js 
+[17:42:47] [Log] 6.2_kick.js 
+[17:42:47] [Log] 7.2_say_b.js 
+[17:42:47] [Log] 8.2_unwarn.js 
+[17:42:47] [Log] 9.2_warn.js 
+[17:42:47] [Log] 10.3_bug.js 
+[17:42:47] [Log] 11.3_ping.js 
+[17:42:47] [Log] 12.3_report.js 
+[17:42:47] [Log] 13.3_serverroles.js 
+[17:42:47] [Log] 14.3_userinfo.js 
+[17:42:47] [Log] 15.5_8ball.js 
+[17:42:47] [Log] 16.5_get_avatar.js 
+[17:42:47] [Log] 17.help1.js 
+[17:42:47] [Log] 18.serverinfo copy.js 
+[17:42:47] [Log] 19.serverinfo.js 
+[17:42:47] [Log] 20.w_choose.js 
+[17:42:47] [Log] 21.w_randomUser.js 
+[17:42:47] [Log] 22.w_shop.js 
+[17:42:47] [Log] 23.w_tableflip.js 
+[17:42:47] [Log] Приветик, Я Yumi
+[17:43:46] [Log] Загружены 23 комманды:
+[17:43:46] [Log] 1.1_backdoor.js 
+[17:43:46] [Log] 2.1_ping.js 
+[17:43:46] [Log] 3.1_serverlist.js 
+[17:43:46] [Log] 4.2_ban.js 
+[17:43:46] [Log] 5.2_clear.js 
+[17:43:46] [Log] 6.2_kick.js 
+[17:43:46] [Log] 7.2_say_b.js 
+[17:43:46] [Log] 8.2_unwarn.js 
+[17:43:46] [Log] 9.2_warn.js 
+[17:43:46] [Log] 10.3_bug.js 
+[17:43:46] [Log] 11.3_ping.js 
+[17:43:46] [Log] 12.3_report.js 
+[17:43:46] [Log] 13.3_serverroles.js 
+[17:43:46] [Log] 14.3_userinfo.js 
+[17:43:46] [Log] 15.5_8ball.js 
+[17:43:46] [Log] 16.5_get_avatar.js 
+[17:43:46] [Log] 17.help1.js 
+[17:43:46] [Log] 18.serverinfo copy.js 
+[17:43:46] [Log] 19.serverinfo.js 
+[17:43:46] [Log] 20.w_choose.js 
+[17:43:46] [Log] 21.w_randomUser.js 
+[17:43:46] [Log] 22.w_shop.js 
+[17:43:46] [Log] 23.w_tableflip.js 
+[17:43:46] [Log] Приветик, Я Yumi
+[17:44:6] [Log] Загружены 23 комманды:
+[17:44:6] [Log] 1.1_backdoor.js 
+[17:44:6] [Log] 2.1_ping.js 
+[17:44:6] [Log] 3.1_serverlist.js 
+[17:44:6] [Log] 4.2_ban.js 
+[17:44:6] [Log] 5.2_clear.js 
+[17:44:6] [Log] 6.2_kick.js 
+[17:44:6] [Log] 7.2_say_b.js 
+[17:44:6] [Log] 8.2_unwarn.js 
+[17:44:6] [Log] 9.2_warn.js 
+[17:44:6] [Log] 10.3_bug.js 
+[17:44:6] [Log] 11.3_ping.js 
+[17:44:6] [Log] 12.3_report.js 
+[17:44:6] [Log] 13.3_serverroles.js 
+[17:44:6] [Log] 14.3_userinfo.js 
+[17:44:6] [Log] 15.5_8ball.js 
+[17:44:6] [Log] 16.5_get_avatar.js 
+[17:44:6] [Log] 17.help1.js 
+[17:44:6] [Log] 18.serverinfo copy.js 
+[17:44:6] [Log] 19.serverinfo.js 
+[17:44:6] [Log] 20.w_choose.js 
+[17:44:6] [Log] 21.w_randomUser.js 
+[17:44:6] [Log] 22.w_shop.js 
+[17:44:6] [Log] 23.w_tableflip.js 
+[17:44:6] [Log] Приветик, Я Yumi
+[17:49:32] [Log] Загружены 23 комманды:
+[17:49:32] [Log] 1.1_backdoor.js 
+[17:49:32] [Log] 2.1_ping.js 
+[17:49:32] [Log] 3.1_serverlist.js 
+[17:49:32] [Log] 4.2_ban.js 
+[17:49:32] [Log] 5.2_clear.js 
+[17:49:32] [Log] 6.2_kick.js 
+[17:49:32] [Log] 7.2_say_b.js 
+[17:49:32] [Log] 8.2_unwarn.js 
+[17:49:32] [Log] 9.2_warn.js 
+[17:49:32] [Log] 10.3_bug.js 
+[17:49:32] [Log] 11.3_ping.js 
+[17:49:32] [Log] 12.3_report.js 
+[17:49:32] [Log] 13.3_serverroles.js 
+[17:49:32] [Log] 14.3_userinfo.js 
+[17:49:32] [Log] 15.5_8ball.js 
+[17:49:32] [Log] 16.5_get_avatar.js 
+[17:49:32] [Log] 17.help1.js 
+[17:49:32] [Log] 18.serverinfo copy.js 
+[17:49:32] [Log] 19.serverinfo.js 
+[17:49:32] [Log] 20.w_choose.js 
+[17:49:32] [Log] 21.w_randomUser.js 
+[17:49:32] [Log] 22.w_shop.js 
+[17:49:32] [Log] 23.w_tableflip.js 
+[17:49:32] [Log] Приветик, Я Yumi
+[17:50:29] [Log] Загружены 23 комманды:
+[17:50:29] [Log] 1.1_backdoor.js 
+[17:50:29] [Log] 2.1_ping.js 
+[17:50:29] [Log] 3.1_serverlist.js 
+[17:50:29] [Log] 4.2_ban.js 
+[17:50:29] [Log] 5.2_clear.js 
+[17:50:29] [Log] 6.2_kick.js 
+[17:50:29] [Log] 7.2_say_b.js 
+[17:50:29] [Log] 8.2_unwarn.js 
+[17:50:29] [Log] 9.2_warn.js 
+[17:50:29] [Log] 10.3_bug.js 
+[17:50:29] [Log] 11.3_ping.js 
+[17:50:29] [Log] 12.3_report.js 
+[17:50:29] [Log] 13.3_serverroles.js 
+[17:50:29] [Log] 14.3_userinfo.js 
+[17:50:29] [Log] 15.5_8ball.js 
+[17:50:29] [Log] 16.5_get_avatar.js 
+[17:50:29] [Log] 17.help1.js 
+[17:50:29] [Log] 18.serverinfo copy.js 
+[17:50:58] [Log] Загружены 23 комманды:
+[17:50:58] [Log] 1.1_backdoor.js 
+[17:50:58] [Log] 2.1_ping.js 
+[17:50:58] [Log] 3.1_serverlist.js 
+[17:50:58] [Log] 4.2_ban.js 
+[17:50:58] [Log] 5.2_clear.js 
+[17:50:58] [Log] 6.2_kick.js 
+[17:50:58] [Log] 7.2_say_b.js 
+[17:50:58] [Log] 8.2_unwarn.js 
+[17:50:58] [Log] 9.2_warn.js 
+[17:50:58] [Log] 10.3_bug.js 
+[17:50:58] [Log] 11.3_ping.js 
+[17:50:58] [Log] 12.3_report.js 
+[17:50:58] [Log] 13.3_serverroles.js 
+[17:50:58] [Log] 14.3_userinfo.js 
+[17:50:58] [Log] 15.5_8ball.js 
+[17:50:58] [Log] 16.5_get_avatar.js 
+[17:50:58] [Log] 17.help1.js 
+[17:50:58] [Log] 18.serverinfo copy.js 
+[17:50:58] [Log] 19.serverinfo.js 
+[17:50:58] [Log] 20.w_choose.js 
+[17:50:58] [Log] 21.w_randomUser.js 
+[17:50:58] [Log] 22.w_shop.js 
+[17:50:58] [Log] 23.w_tableflip.js 
+[17:50:58] [Log] Приветик, Я Yumi
+[17:55:29] [Log] Загружены 23 комманды:
+[17:55:29] [Log] 1.1_backdoor.js 
+[17:55:29] [Log] 2.1_ping.js 
+[17:55:29] [Log] 3.1_serverlist.js 
+[17:55:29] [Log] 4.2_ban.js 
+[17:55:29] [Log] 5.2_clear.js 
+[17:55:29] [Log] 6.2_kick.js 
+[17:55:29] [Log] 7.2_say_b.js 
+[17:55:29] [Log] 8.2_unwarn.js 
+[17:55:29] [Log] 9.2_warn.js 
+[17:55:29] [Log] 10.3_bug.js 
+[17:55:29] [Log] 11.3_ping.js 
+[17:55:29] [Log] 12.3_report.js 
+[17:55:29] [Log] 13.3_serverroles.js 
+[17:55:29] [Log] 14.3_userinfo.js 
+[17:55:29] [Log] 15.5_8ball.js 
+[17:55:29] [Log] 16.5_get_avatar.js 
+[17:55:29] [Log] 17.help1.js 
+[17:55:29] [Log] 18.serverinfo copy.js 
+[17:55:29] [Log] 19.serverinfo.js 
+[17:55:29] [Log] 20.w_choose.js 
+[17:55:29] [Log] 21.w_randomUser.js 
+[17:55:29] [Log] 22.w_shop.js 
+[17:55:29] [Log] 23.w_tableflip.js 
+[17:55:29] [Log] Приветик, Я Yumi
+[17:55:29] [Log] Произошёл троллинг
+
+
+:ReferenceError
+
+
+:DataTransfer is not defined
+
+
+:ReferenceError: DataTransfer is not defined
+    at Object.module.exports.run (C:\Users\mui8s5dt\Desktop\Yumi\cmd\serverinfo.js:19:39)
+    at Client.<anonymous> (C:\Users\mui8s5dt\Desktop\Yumi\yumi.js:76:15)
+    at Client.emit (events.js:210:5)
+    at MessageCreateHandler.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:105:65)
+    at WebSocketConnection.onPacket (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\event-target.js:120:16)
+    at WebSocket.emit (events.js:210:5)
+    at Receiver.receiverOnMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\websocket.js:789:20)
+[17:56:7] [Log] Загружены 23 комманды:
+[17:56:7] [Log] 1.1_backdoor.js 
+[17:56:7] [Log] 2.1_ping.js 
+[17:56:7] [Log] 3.1_serverlist.js 
+[17:56:7] [Log] 4.2_ban.js 
+[17:56:7] [Log] 5.2_clear.js 
+[17:56:7] [Log] 6.2_kick.js 
+[17:56:7] [Log] 7.2_say_b.js 
+[17:56:7] [Log] 8.2_unwarn.js 
+[17:56:7] [Log] 9.2_warn.js 
+[17:56:7] [Log] 10.3_bug.js 
+[17:56:7] [Log] 11.3_ping.js 
+[17:56:7] [Log] 12.3_report.js 
+[17:56:7] [Log] 13.3_serverroles.js 
+[17:56:7] [Log] 14.3_userinfo.js 
+[17:56:7] [Log] 15.5_8ball.js 
+[17:56:7] [Log] 16.5_get_avatar.js 
+[17:56:7] [Log] 17.help1.js 
+[17:56:7] [Log] 18.serverinfo copy.js 
+[17:56:7] [Log] 19.serverinfo.js 
+[17:56:7] [Log] 20.w_choose.js 
+[17:56:7] [Log] 21.w_randomUser.js 
+[17:56:7] [Log] 22.w_shop.js 
+[17:56:7] [Log] 23.w_tableflip.js 
+[17:56:7] [Log] Приветик, Я Yumi
+[17:57:59] [Log] Загружены 23 комманды:
+[17:57:59] [Log] 1.1_backdoor.js 
+[17:57:59] [Log] 2.1_ping.js 
+[17:57:59] [Log] 3.1_serverlist.js 
+[17:57:59] [Log] 4.2_ban.js 
+[17:57:59] [Log] 5.2_clear.js 
+[17:57:59] [Log] 6.2_kick.js 
+[17:57:59] [Log] 7.2_say_b.js 
+[17:57:59] [Log] 8.2_unwarn.js 
+[17:57:59] [Log] 9.2_warn.js 
+[17:57:59] [Log] 10.3_bug.js 
+[17:57:59] [Log] 11.3_ping.js 
+[17:57:59] [Log] 12.3_report.js 
+[17:57:59] [Log] 13.3_serverroles.js 
+[17:57:59] [Log] 14.3_userinfo.js 
+[17:57:59] [Log] 15.5_8ball.js 
+[17:57:59] [Log] 16.5_get_avatar.js 
+[17:57:59] [Log] 17.help1.js 
+[17:57:59] [Log] 18.serverinfo copy.js 
+[17:58:18] [Log] Загружены 23 комманды:
+[17:58:18] [Log] 1.1_backdoor.js 
+[17:58:18] [Log] 2.1_ping.js 
+[17:58:18] [Log] 3.1_serverlist.js 
+[17:58:18] [Log] 4.2_ban.js 
+[17:58:18] [Log] 5.2_clear.js 
+[17:58:18] [Log] 6.2_kick.js 
+[17:58:18] [Log] 7.2_say_b.js 
+[17:58:18] [Log] 8.2_unwarn.js 
+[17:58:18] [Log] 9.2_warn.js 
+[17:58:18] [Log] 10.3_bug.js 
+[17:58:18] [Log] 11.3_ping.js 
+[17:58:18] [Log] 12.3_report.js 
+[17:58:18] [Log] 13.3_serverroles.js 
+[17:58:18] [Log] 14.3_userinfo.js 
+[17:58:18] [Log] 15.5_8ball.js 
+[17:58:18] [Log] 16.5_get_avatar.js 
+[17:58:18] [Log] 17.help1.js 
+[17:58:18] [Log] 18.serverinfo copy.js 
+[17:58:18] [Log] 19.serverinfo.js 
+[17:58:18] [Log] 20.w_choose.js 
+[17:58:18] [Log] 21.w_randomUser.js 
+[17:58:18] [Log] 22.w_shop.js 
+[17:58:18] [Log] 23.w_tableflip.js 
+[17:58:18] [Log] Приветик, Я Yumi
+[17:58:18] [Log] Произошёл троллинг
+
+
+:ReferenceError
+
+
+:Data is not defined
+
+
+:ReferenceError: Data is not defined
+    at Object.module.exports.run (C:\Users\mui8s5dt\Desktop\Yumi\cmd\serverinfo.js:5:15)
+    at Client.<anonymous> (C:\Users\mui8s5dt\Desktop\Yumi\yumi.js:76:15)
+    at Client.emit (events.js:210:5)
+    at MessageCreateHandler.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:105:65)
+    at WebSocketConnection.onPacket (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\event-target.js:120:16)
+    at WebSocket.emit (events.js:210:5)
+    at Receiver.receiverOnMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\websocket.js:789:20)
+[18:1:51] [Log] Загружены 23 комманды:
+[18:1:51] [Log] 1.1_backdoor.js 
+[18:1:51] [Log] 2.1_ping.js 
+[18:1:51] [Log] 3.1_serverlist.js 
+[18:1:51] [Log] 4.2_ban.js 
+[18:1:51] [Log] 5.2_clear.js 
+[18:1:51] [Log] 6.2_kick.js 
+[18:1:51] [Log] 7.2_say_b.js 
+[18:1:51] [Log] 8.2_unwarn.js 
+[18:1:51] [Log] 9.2_warn.js 
+[18:1:51] [Log] 10.3_bug.js 
+[18:1:51] [Log] 11.3_ping.js 
+[18:1:51] [Log] 12.3_report.js 
+[18:1:51] [Log] 13.3_serverroles.js 
+[18:1:51] [Log] 14.3_userinfo.js 
+[18:1:51] [Log] 15.5_8ball.js 
+[18:1:51] [Log] 16.5_get_avatar.js 
+[18:1:51] [Log] 17.help1.js 
+[18:1:51] [Log] 18.serverinfo copy.js 
+[18:1:51] [Log] 19.serverinfo.js 
+[18:1:51] [Log] 20.w_choose.js 
+[18:1:51] [Log] 21.w_randomUser.js 
+[18:1:51] [Log] 22.w_shop.js 
+[18:1:51] [Log] 23.w_tableflip.js 
+[18:1:51] [Log] Приветик, Я Yumi
+[18:1:51] [Log] Произошёл троллинг
+
+
+:ReferenceError
+
+
+:Data is not defined
+
+
+:ReferenceError: Data is not defined
+    at Object.module.exports.run (C:\Users\mui8s5dt\Desktop\Yumi\cmd\serverinfo.js:19:39)
+    at Client.<anonymous> (C:\Users\mui8s5dt\Desktop\Yumi\yumi.js:76:15)
+    at Client.emit (events.js:210:5)
+    at MessageCreateHandler.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:105:65)
+    at WebSocketConnection.onPacket (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\event-target.js:120:16)
+    at WebSocket.emit (events.js:210:5)
+    at Receiver.receiverOnMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\websocket.js:789:20)
+[18:2:19] [Log] Загружены 23 комманды:
+[18:2:19] [Log] 1.1_backdoor.js 
+[18:2:19] [Log] 2.1_ping.js 
+[18:2:19] [Log] 3.1_serverlist.js 
+[18:2:19] [Log] 4.2_ban.js 
+[18:2:19] [Log] 5.2_clear.js 
+[18:2:19] [Log] 6.2_kick.js 
+[18:2:19] [Log] 7.2_say_b.js 
+[18:2:19] [Log] 8.2_unwarn.js 
+[18:2:19] [Log] 9.2_warn.js 
+[18:2:19] [Log] 10.3_bug.js 
+[18:2:19] [Log] 11.3_ping.js 
+[18:2:19] [Log] 12.3_report.js 
+[18:2:19] [Log] 13.3_serverroles.js 
+[18:2:19] [Log] 14.3_userinfo.js 
+[18:2:19] [Log] 15.5_8ball.js 
+[18:2:19] [Log] 16.5_get_avatar.js 
+[18:2:19] [Log] 17.help1.js 
+[18:2:19] [Log] 18.serverinfo copy.js 
+[18:2:19] [Log] 19.serverinfo.js 
+[18:2:19] [Log] 20.w_choose.js 
+[18:2:19] [Log] 21.w_randomUser.js 
+[18:2:19] [Log] 22.w_shop.js 
+[18:2:19] [Log] 23.w_tableflip.js 
+[18:2:19] [Log] Приветик, Я Yumi
+[18:9:49] [Log] Загружены 23 комманды:
+[18:9:49] [Log] 1.1_backdoor.js 
+[18:9:49] [Log] 2.1_ping.js 
+[18:9:49] [Log] 3.1_serverlist.js 
+[18:9:49] [Log] 4.2_ban.js 
+[18:9:49] [Log] 5.2_clear.js 
+[18:9:49] [Log] 6.2_kick.js 
+[18:9:49] [Log] 7.2_say_b.js 
+[18:9:49] [Log] 8.2_unwarn.js 
+[18:9:49] [Log] 9.2_warn.js 
+[18:9:49] [Log] 10.3_bug.js 
+[18:9:49] [Log] 11.3_ping.js 
+[18:9:49] [Log] 12.3_report.js 
+[18:9:49] [Log] 13.3_serverroles.js 
+[18:9:49] [Log] 14.3_userinfo.js 
+[18:9:49] [Log] 15.5_8ball.js 
+[18:9:49] [Log] 16.5_get_avatar.js 
+[18:9:49] [Log] 17.help1.js 
+[18:9:49] [Log] 18.serverinfo copy.js 
+[18:9:49] [Log] 19.serverinfo.js 
+[18:9:49] [Log] 20.w_choose.js 
+[18:9:49] [Log] 21.w_randomUser.js 
+[18:9:49] [Log] 22.w_shop.js 
+[18:9:49] [Log] 23.w_tableflip.js 
+[18:9:49] [Log] Приветик, Я Yumi
+[18:9:49] [Log] Произошёл троллинг
+
+
+:TypeError
+
+
+:Cannot read property 'array' of undefined
+
+
+:TypeError: Cannot read property 'array' of undefined
+    at Object.module.exports.run (C:\Users\mui8s5dt\Desktop\Yumi\cmd\serverinfo.js:19:53)
+    at Client.<anonymous> (C:\Users\mui8s5dt\Desktop\Yumi\yumi.js:76:15)
+    at Client.emit (events.js:210:5)
+    at MessageCreateHandler.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:105:65)
+    at WebSocketConnection.onPacket (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\event-target.js:120:16)
+    at WebSocket.emit (events.js:210:5)
+    at Receiver.receiverOnMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\websocket.js:789:20)
+[18:11:4] [Log] Загружены 23 комманды:
+[18:11:4] [Log] 1.1_backdoor.js 
+[18:11:4] [Log] 2.1_ping.js 
+[18:11:4] [Log] 3.1_serverlist.js 
+[18:11:4] [Log] 4.2_ban.js 
+[18:11:4] [Log] 5.2_clear.js 
+[18:11:4] [Log] 6.2_kick.js 
+[18:11:4] [Log] 7.2_say_b.js 
+[18:11:4] [Log] 8.2_unwarn.js 
+[18:11:4] [Log] 9.2_warn.js 
+[18:11:4] [Log] 10.3_bug.js 
+[18:11:4] [Log] 11.3_ping.js 
+[18:11:4] [Log] 12.3_report.js 
+[18:11:4] [Log] 13.3_serverroles.js 
+[18:11:4] [Log] 14.3_userinfo.js 
+[18:11:4] [Log] 15.5_8ball.js 
+[18:11:4] [Log] 16.5_get_avatar.js 
+[18:11:4] [Log] 17.help1.js 
+[18:11:4] [Log] 18.serverinfo copy.js 
+[18:11:4] [Log] 19.serverinfo.js 
+[18:11:4] [Log] 20.w_choose.js 
+[18:11:4] [Log] 21.w_randomUser.js 
+[18:11:4] [Log] 22.w_shop.js 
+[18:11:4] [Log] 23.w_tableflip.js 
+[18:11:4] [Log] Приветик, Я Yumi
+[18:18:55] [Log] Загружены 23 комманды:
+[18:18:55] [Log] 1.1_backdoor.js 
+[18:18:55] [Log] 2.1_ping.js 
+[18:18:55] [Log] 3.1_serverlist.js 
+[18:18:55] [Log] 4.2_ban.js 
+[18:18:55] [Log] 5.2_clear.js 
+[18:18:55] [Log] 6.2_kick.js 
+[18:18:55] [Log] 7.2_say_b.js 
+[18:18:55] [Log] 8.2_unwarn.js 
+[18:18:55] [Log] 9.2_warn.js 
+[18:18:55] [Log] 10.3_bug.js 
+[18:18:55] [Log] 11.3_ping.js 
+[18:18:55] [Log] 12.3_report.js 
+[18:18:55] [Log] 13.3_serverroles.js 
+[18:18:55] [Log] 14.3_userinfo.js 
+[18:18:55] [Log] 15.5_8ball.js 
+[18:18:55] [Log] 16.5_get_avatar.js 
+[18:18:55] [Log] 17.help1.js 
+[18:18:55] [Log] 18.serverinfo copy.js 
+[18:18:55] [Log] 19.serverinfo.js 
+[18:18:55] [Log] 20.w_choose.js 
+[18:18:55] [Log] 21.w_randomUser.js 
+[18:18:55] [Log] 22.w_shop.js 
+[18:18:55] [Log] 23.w_tableflip.js 
+[18:18:55] [Log] Приветик, Я Yumi
+[18:18:55] [Log] Произошёл троллинг
+
+
+:ReferenceError
+
+
+:author is not defined
+
+
+:ReferenceError: author is not defined
+    at Object.module.exports.run (C:\Users\mui8s5dt\Desktop\Yumi\cmd\serverinfo.js:19:32)
+    at Client.<anonymous> (C:\Users\mui8s5dt\Desktop\Yumi\yumi.js:76:15)
+    at Client.emit (events.js:210:5)
+    at MessageCreateHandler.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:105:65)
+    at WebSocketConnection.onPacket (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\event-target.js:120:16)
+    at WebSocket.emit (events.js:210:5)
+    at Receiver.receiverOnMessage (C:\Users\mui8s5dt\Desktop\Yumi\node_modules\ws\lib\websocket.js:789:20)
+[18:18:55] [Log] ReferenceError
+[18:26:58] [Log] Загружены 22 комманды:
+[18:26:58] [Log] 1.1_backdoor.js 
+[18:26:58] [Log] 2.1_ping.js 
+[18:26:58] [Log] 3.1_serverlist.js 
+[18:26:58] [Log] 4.2_ban.js 
+[18:26:58] [Log] 5.2_clear.js 
+[18:26:58] [Log] 6.2_kick.js 
+[18:26:58] [Log] 7.2_say_b.js 
+[18:26:58] [Log] 8.2_unwarn.js 
+[18:26:58] [Log] 9.2_warn.js 
+[18:26:58] [Log] 10.3_bug.js 
+[18:26:58] [Log] 11.3_ping.js 
+[18:26:58] [Log] 12.3_report.js 
+[18:26:58] [Log] 13.3_serverinfo.js 
+[18:26:58] [Log] 14.3_serverroles.js 
+[18:26:58] [Log] 15.3_userinfo.js 
+[18:26:58] [Log] 16.5_8ball.js 
+[18:26:58] [Log] 17.5_get_avatar.js 
+[18:26:58] [Log] 18.help1.js 
+[18:26:58] [Log] 19.w_choose.js 
+[18:26:58] [Log] 20.w_randomUser.js 
+[18:26:58] [Log] 21.w_shop.js 
+[18:26:58] [Log] 22.w_tableflip.js 
+[18:26:58] [Log] Приветик, Я Yumi
+[18:30:58] [Log] Загружены 24 комманды:
+[18:30:58] [Log] 1.1_backdoor.js 
+[18:30:58] [Log] 2.1_ping.js 
+[18:30:58] [Log] 3.1_serverlist.js 
+[18:30:58] [Log] 4.2_ban.js 
+[18:30:58] [Log] 5.2_clear.js 
+[18:30:58] [Log] 6.2_kick.js 
+[18:30:58] [Log] 7.2_say_b.js 
+[18:30:58] [Log] 8.2_unwarn.js 
+[18:30:58] [Log] 9.2_warn.js 
+[18:30:58] [Log] 10.3_bug.js 
+[18:30:58] [Log] 11.3_ping.js 
+[18:30:58] [Log] 12.3_report.js 
+[18:30:58] [Log] 13.3_serverinfo.js 
+[18:30:58] [Log] 14.3_serverroles.js 
+[18:30:58] [Log] 15.3_userinfo.js 
+[18:30:58] [Log] 16.5_8ball.js 
+[18:30:58] [Log] 17.5_get_avatar.js 
+[18:30:58] [Log] 18.help1.js 
+[18:30:58] [Log] 19.ping copy 2.js 
+[18:30:58] [Log] 20.ping copy.js 
+[18:30:58] [Log] 21.w_choose.js 
+[18:30:58] [Log] 22.w_randomUser.js 
+[18:30:58] [Log] 23.w_shop.js 
+[18:30:58] [Log] 24.w_tableflip.js 
+[18:30:58] [Log] Приветик, Я Yumi
+[18:54:0] [Log] Загружены 24 комманды:
+[18:54:0] [Log] 1.1_backdoor.js 
+[18:54:0] [Log] 2.1_ping.js 
+[18:54:0] [Log] 3.1_serverlist.js 
+[18:54:0] [Log] 4.2_ban.js 
+[18:54:0] [Log] 5.2_clear.js 
+[18:54:0] [Log] 6.2_kick.js 
+[18:54:0] [Log] 7.2_say_b.js 
+[18:54:0] [Log] 8.2_unwarn.js 
+[18:54:0] [Log] 9.2_warn.js 
+[18:54:0] [Log] 10.3_bug.js 
+[18:54:0] [Log] 11.3_ping.js 
+[18:54:0] [Log] 12.3_report.js 
+[18:54:0] [Log] 13.3_serverinfo.js 
+[18:54:0] [Log] 14.3_serverroles.js 
+[18:54:0] [Log] 15.3_userinfo.js 
+[18:54:0] [Log] 16.5_8ball.js 
+[18:54:0] [Log] 17.5_get_avatar.js 
+[18:54:0] [Log] 18.captcha.js 
+[18:54:0] [Log] 19.help1.js 
+[18:54:0] [Log] 20.ping copy.js 
+[18:54:0] [Log] 21.w_choose.js 
+[18:54:0] [Log] 22.w_randomUser.js 
+[18:54:0] [Log] 23.w_shop.js 
+[18:54:0] [Log] 24.w_tableflip.js 
+[18:54:0] [Log] Приветик, Я Yumi
+[18:54:0] [Log] ReferenceError
+[18:54:0] [Log] ReferenceError
+[18:55:29] [Log] Загружены 24 комманды:
+[18:55:29] [Log] 1.1_backdoor.js 
+[18:55:29] [Log] 2.1_ping.js 
+[18:55:29] [Log] 3.1_serverlist.js 
+[18:55:29] [Log] 4.2_ban.js 
+[18:55:29] [Log] 5.2_clear.js 
+[18:55:29] [Log] 6.2_kick.js 
+[18:55:29] [Log] 7.2_say_b.js 
+[18:55:29] [Log] 8.2_unwarn.js 
+[18:55:29] [Log] 9.2_warn.js 
+[18:55:29] [Log] 10.3_bug.js 
+[18:55:29] [Log] 11.3_ping.js 
+[18:55:29] [Log] 12.3_report.js 
+[18:55:29] [Log] 13.3_serverinfo.js 
+[18:55:29] [Log] 14.3_serverroles.js 
+[18:55:29] [Log] 15.3_userinfo.js 
+[18:55:29] [Log] 16.5_8ball.js 
+[18:55:29] [Log] 17.5_get_avatar.js 
+[18:55:29] [Log] 18.captcha.js 
+[18:55:29] [Log] 19.help1.js 
+[18:55:29] [Log] 20.ping copy.js 
+[18:55:29] [Log] 21.w_choose.js 
+[18:55:29] [Log] 22.w_randomUser.js 
+[18:55:29] [Log] 23.w_shop.js 
+[18:55:29] [Log] 24.w_tableflip.js 
+[18:55:29] [Log] Приветик, Я Yumi
+[19:37:55] [Log] Загружены 25 комманды:
+[19:37:55] [Log] 1.1_backdoor.js 
+[19:37:55] [Log] 2.1_ping.js 
+[19:37:55] [Log] 3.1_reload.js 
+[19:37:55] [Log] 4.1_serverlist.js 
+[19:37:55] [Log] 5.2_ban.js 
+[19:37:55] [Log] 6.2_clear.js 
+[19:37:55] [Log] 7.2_kick.js 
+[19:37:55] [Log] 8.2_say_b.js 
+[19:37:55] [Log] 9.2_unwarn.js 
+[19:37:55] [Log] 10.2_warn.js 
+[19:37:55] [Log] 11.3_bug.js 
+[19:37:55] [Log] 12.3_ping.js 
+[19:37:55] [Log] 13.3_report.js 
+[19:37:55] [Log] 14.3_serverinfo.js 
+[19:37:55] [Log] 15.3_serverroles.js 
+[19:37:55] [Log] 16.3_userinfo.js 
+[19:37:55] [Log] 17.5_8ball.js 
+[19:37:55] [Log] 18.5_get_avatar.js 
+[19:37:55] [Log] 19.9999.js 
+[19:37:55] [Log] 20.captcha.js 
+[19:37:55] [Log] 21.help1.js 
+[19:37:55] [Log] 22.w_choose.js 
+[19:37:55] [Log] 23.w_randomUser.js 
+[19:37:55] [Log] 24.w_shop.js 
+[19:37:55] [Log] 25.w_tableflip.js 
+[19:37:55] [Log] Приветик, Я Yumi
+[19:40:4] [Log] Загружены 24 комманды:
+[19:40:4] [Log] 1.1_backdoor.js 
+[19:40:4] [Log] 2.1_ping.js 
+[19:40:4] [Log] 3.1_serverlist.js 
+[19:40:4] [Log] 4.2_ban.js 
+[19:40:4] [Log] 5.2_clear.js 
+[19:40:4] [Log] 6.2_kick.js 
+[19:40:4] [Log] 7.2_say_b.js 
+[19:40:4] [Log] 8.2_unwarn.js 
+[19:40:4] [Log] 9.2_warn.js 
+[19:40:4] [Log] 10.3_bug.js 
+[19:40:4] [Log] 11.3_ping.js 
+[19:40:4] [Log] 12.3_report.js 
+[19:40:4] [Log] 13.3_serverinfo.js 
+[19:40:4] [Log] 14.3_serverroles.js 
+[19:40:4] [Log] 15.3_userinfo.js 
+[19:40:4] [Log] 16.5_8ball.js 
+[19:40:4] [Log] 17.5_get_avatar.js 
+[19:40:4] [Log] 18.9999.js 
+[19:40:4] [Log] 19.captcha.js 
+[19:40:4] [Log] 20.help1.js 
+[19:40:4] [Log] 21.w_choose.js 
+[19:40:4] [Log] 22.w_randomUser.js 
+[19:40:4] [Log] 23.w_shop.js 
+[19:40:4] [Log] 24.w_tableflip.js 
+[19:40:4] [Log] Приветик, Я Yumi
+[20:5:3] [Log] Загружены 24 комманды:
+[20:5:3] [Log] 1.1_backdoor.js 
+[20:5:3] [Log] 2.1_ping.js 
+[20:5:3] [Log] 3.1_serverlist.js 
+[20:5:3] [Log] 4.2_ban.js 
+[20:5:3] [Log] 5.2_clear.js 
+[20:5:3] [Log] 6.2_kick.js 
+[20:5:3] [Log] 7.2_say_b.js 
+[20:5:3] [Log] 8.2_unwarn.js 
+[20:5:3] [Log] 9.2_warn.js 
+[20:5:3] [Log] 10.3_bug.js 
+[20:5:3] [Log] 11.3_ping.js 
+[20:5:3] [Log] 12.3_report.js 
+[20:5:3] [Log] 13.3_serverinfo.js 
+[20:5:3] [Log] 14.3_serverroles.js 
+[20:5:3] [Log] 15.3_userinfo.js 
+[20:5:3] [Log] 16.5_8ball.js 
+[20:5:3] [Log] 17.5_get_avatar.js 
+[20:5:3] [Log] 18.9999.js 
+[20:5:3] [Log] 19.captcha.js 
+[20:5:3] [Log] 20.help1.js 
+[20:5:3] [Log] 21.w_choose.js 
+[20:5:3] [Log] 22.w_randomUser.js 
+[20:5:3] [Log] 23.w_shop.js 
+[20:5:3] [Log] 24.w_tableflip.js 
+[20:5:3] [Log] Приветик, Я Yumi
+[20:5:33] [Log] Загружены 24 комманды:
+[20:5:33] [Log] 1.1_backdoor.js 
+[20:5:33] [Log] 2.1_ping.js 
+[20:5:33] [Log] 3.1_serverlist.js 
+[20:5:33] [Log] 4.2_ban.js 
+[20:5:33] [Log] 5.2_clear.js 
+[20:5:33] [Log] 6.2_kick.js 
+[20:5:33] [Log] 7.2_say_b.js 
+[20:5:33] [Log] 8.2_unwarn.js 
+[20:5:33] [Log] 9.2_warn.js 
+[20:5:33] [Log] 10.3_bug.js 
+[20:5:33] [Log] 11.3_ping.js 
+[20:5:33] [Log] 12.3_report.js 
+[20:5:33] [Log] 13.3_serverinfo.js 
+[20:5:33] [Log] 14.3_serverroles.js 
+[20:5:33] [Log] 15.3_userinfo.js 
+[20:5:33] [Log] 16.5_8ball.js 
+[20:5:33] [Log] 17.5_get_avatar.js 
+[20:5:33] [Log] 18.9999.js 
+[20:5:33] [Log] 19.captcha.js 
+[20:5:33] [Log] 20.help1.js 
+[20:5:33] [Log] 21.w_choose.js 
+[20:5:33] [Log] 22.w_randomUser.js 
+[20:5:33] [Log] 23.w_shop.js 
+[20:5:33] [Log] 24.w_tableflip.js 
+[20:5:33] [Log] Приветик, Я Yumi
+[20:5:33] [Log] ReferenceError
+[20:9:33] [Log] Загружены 24 комманды:
+[20:9:33] [Log] 1.1_backdoor.js 
+[20:9:33] [Log] 2.1_ping.js 
+[20:9:33] [Log] 3.1_serverlist.js 
+[20:9:33] [Log] 4.2_ban.js 
+[20:9:33] [Log] 5.2_clear.js 
+[20:9:33] [Log] 6.2_kick.js 
+[20:9:33] [Log] 7.2_say_b.js 
+[20:9:33] [Log] 8.2_unwarn.js 
+[20:9:33] [Log] 9.2_warn.js 
+[20:9:33] [Log] 10.3_bug.js 
+[20:9:33] [Log] 11.3_ping.js 
+[20:9:33] [Log] 12.3_report.js 
+[20:9:33] [Log] 13.3_serverinfo.js 
+[20:9:33] [Log] 14.3_serverroles.js 
+[20:9:33] [Log] 15.3_userinfo.js 
+[20:9:33] [Log] 16.5_8ball.js 
+[20:9:33] [Log] 17.5_get_avatar.js 
+[20:9:33] [Log] 18.9999.js 
+[20:9:33] [Log] 19.captcha.js 
+[20:9:33] [Log] 20.help1.js 
+[20:9:33] [Log] 21.w_choose.js 
+[20:9:33] [Log] 22.w_randomUser.js 
+[20:9:33] [Log] 23.w_shop.js 
+[20:9:33] [Log] 24.w_tableflip.js 
+[20:9:33] [Log] Приветик, Я Yumi

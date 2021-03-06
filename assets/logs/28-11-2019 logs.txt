@@ -1,0 +1,5 @@
+[20:33:7] [Log] Приветик, Я Yumi
+[20:33:7] [Log] ReferenceError
+[20:33:7] [Log] ReferenceError
+[21:35:16] [Log] Приветик, Я Yumi
+[21:35:26] [Log] Приветик, Я Yumi

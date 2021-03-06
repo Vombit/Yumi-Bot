@@ -1,0 +1,53 @@
+{
+    "f1": {
+        "price": 500,
+        "name": "fon1.png"
+    },
+    "f2": {
+        "price": 500,
+        "name": "fon2.png"
+    },
+    "f3": {
+        "price": 500,
+        "name": "fon3.png"
+    },
+    "f4": {
+        "price": 600,
+        "name": "fon4.png"
+    },
+    "f5": {
+        "price": 600,
+        "name": "fon5.png"
+    },
+    "f6": {
+        "price": 1200,
+        "name": "fon6.png"
+    },
+    "f7": {
+        "price": 1400,
+        "name": "fon7.png"
+    },
+    "f8": {
+        "price": 2000,
+        "name": "fon8.png"
+    },
+    "f9": {
+        "price": 2500,
+        "name": "fon9.png"
+    },
+    "f10": {
+        "price": 10000,
+        "np": "10k",
+        "name": "yumi.png"
+    },
+    "f11": {
+        "price": 10000,
+        "np": "10k",
+        "name": "klark.png"
+    },
+    "f12": {
+        "price": 100000,
+        "np": "100k",
+        "name": "heiser.png"
+    }
+}

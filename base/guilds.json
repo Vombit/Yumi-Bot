@@ -1,0 +1,15 @@
+{
+	"400355776717127690": {
+		"score": 0,
+		"coins": 0,
+		"rep": 0,
+		"zero": "",
+		"buemess": "",
+		"on": true,
+		"logsChannel": "reports",
+		"hiChannel": "главная-площадь",
+		"msgHi": "***${member} новичёк!***",
+		"msgBye": "${member} ***решил покинуть нас!***",
+		"prefix": ">"
+	}
+}
