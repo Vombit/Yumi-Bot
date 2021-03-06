@@ -5,8 +5,10 @@ let lang = eng;
 const bot = new Discord.Client({ disableMentions: 'everyone' });
 const profile = require('./base/profile.json');
 const base = require('./base/guilds.json');
-const { prefix, token, dbl_tok } = require('./botconfig.json');
+//const { prefix, token, dbl_tok } = require('./botconfig.json');
 
+var prefix = process.env.prefix;
+var token = process.env.token;
 const fs = require('fs');
 bot.commands = new Discord.Collection();
 bot.aliases = new Discord.Collection();
