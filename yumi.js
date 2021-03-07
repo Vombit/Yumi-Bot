@@ -3,8 +3,6 @@ const rus = require('./assets/language/ru.json');
 const eng = require('./assets/language/en.json');
 let lang = eng;
 const bot = new Discord.Client({ disableMentions: 'everyone' });
-const profile = require('./base/profile.json');
-const base = require('./base/guilds.json');
 //const { prefix, token, dbl_tok } = require('./botconfig.json');
 
 var prefix = process.env.prefix;
@@ -37,10 +35,8 @@ fs.readdir('./cmd/', (err, files) => {
 bot.on('ready', async () => {
 	console.log(`Приветик, всё в норме`);
 	const statuses = [
-		'Yumi | .help',
-		'Use .help',
-		'New command "shop"',
-		'Have a nice day.',
+		'Yumi | Technical Works | .help',
+		'Use | Restricted Mode | .help',
 	];
 	setInterval(function() {
 		const status = statuses[Math.floor(Math.random() * statuses.length)];
@@ -67,45 +63,7 @@ bot.on('message', async message => {
 	}
 	// /log_dm_mess
 	if(message.author.bot || message.channel.type === 'dm') return;
-	// lvlUpSet
-	const mai = message.author.id;
-	const username = message.author.username;
-	bot.send = function(msg) {message.channel.send(msg);};
-	const aaddxp = Math.floor(Math.random() * 5) + 3;
-	if(!profile[mai]) {
-		profile[mai] = {
-			username:username,
-			coins:200,
-			lvl:1,
-			xp:0,
-			maxs:50,
-			score:0,
-			rep:0,
-			background: "fon1.png",
-			zero:''
-		};
-	}
 
-	const us = profile[mai];
-	if(message.guild.region === 'russia') lang = rus;
-	us.xp += aaddxp;
-	us.score++;
-	if(us.maxs < us.xp) {
-		us.lvl++;
-		us.xp = 0;
-		us.maxs += 20;
-		us.coins += 50;
-		const embed = new Discord.MessageEmbed()
-			.setColor('RANDOM')
-			.setDescription(`${lang.lvl.first} ${us.lvl} ${lang.lvl.second}!`)
-			.setFooter(`${message.author.username}`, message.author.avatarURL);
-		try{message.channel.send(embed);}
-		catch(e) {return;}
-	}
-	fs.writeFile('./base/profile.json', JSON.stringify(profile, null, '\t'), (err)=>{
-		if(err) console.log(err);
-	});
-	// /lvlUpSet
 
 	// const userid = message.author.id;
 	const messageArray = message.content.split(/ +/);
@@ -183,36 +141,16 @@ bot.distube
     })
     // DisTubeOptions.searchSongs = true
     .on("searchCancel", message => message.channel.send(`❌ | Searching canceled`))
-    .on("error", (message, err) => message.channel.send(`❌ | An error encountered: ${err}`));
+    .on("error", (message, err) => message.channel.send(`❌ | An error encountered: ${err}`))
 
-	//distube.on("finish", message => message.channel.send("No more song in queue"));
-	//distube.on("empty", message => message.channel.send("Channel is empty. Leaving the channel"))
+
+	.on("finish", message => message.channel.send("No more song in queue"))
+	.on("empty", message => message.channel.send("Channel is empty. Leaving the channel"));
 
 
 	// DisTubeOptions.searchSongs = true
 //distube.on("searchCancel", (message) => message.channel.send(`Searching canceled`));
 
-
-
-
-
-bot.on('guildCreate', async guild =>{
-	const gui = guild.id;
-	if(!base[gui]) {
-		base[gui] = {
-			logsChannel:'',
-			hiChannel:'',
-			on:false,
-			zero:'',
-			prefix:'.',
-			msgHi:'',
-			msgBye:'',
-		};
-	}
-	fs.writeFile('./base/guilds.json', JSON.stringify(base, null, '\t'), (err)=>{
-		if(err) console.log(err);
-	});
-});
 
 
 bot.on('error', error => {
@@ -222,7 +160,7 @@ process.on('unhandledRejection', error => {
 	console.error('Unhandled promise rejection:', error);
 });
 process.on('Unhandled', error => {
-	console.error('Unhandled promise rejection:', error);
+	console.error('Unhandled promise rejection1:', error);
 });
 
 
