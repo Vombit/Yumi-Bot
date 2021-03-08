@@ -52,12 +52,11 @@ if (message.guild.id != '400355776717127690') {
 				.addField('Yumi:', '``ping``, ``help``, ``error``, ``uptime``')
 				.addField(`${lang.help.fun}:`, '``8ball``, ``choose``, ``poll``')
 				.addField(`${lang.help.manage}:`, '``clear``,  ``yumisay``')
-
 				.addField(`Музыка:`, '``play/stop``, ``pause/resume``, ``volume``, ``next``, ``loop``, ``filter``, ``autoplay``, ``rewind``, ``queue``, ``shuffle`` ')
-
-				.addField(`${lang.help.utils}:`, '``avatar``, ``userinfo``, ``serverinfo``')
-				.addField(`${lang.help.links}:`, ' [invite Yumi](https://discordapp.com/oauth2/authorize?&client_id=643676300879331359&scope=bot&permissions=8),  [Support server](https://discord.gg/5xMZ3zA)');
-			bot.send(Sembed);
+				.addField(`${lang.help.utils}:`, '``avatar``, ``userinfo``, ``serverinfo``')	
+		
+				.setFooter('Yumi', bot.user.displayAvatarURL());
+		bot.send(Sembed);
 	}
 
 }
