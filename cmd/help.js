@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
 	if(message.guild.region === 'russia') lang = rus;
 	if(message.guild.region != 'russia') lang = eng;
 
-	var prefix = process.env.prefix;
+	const prefix = '.';
 
 	if (args[0] === 'help') return message.channel.send(`${lang.help.try} **${prefix}help**`);
 	if (args[0]) {
@@ -61,6 +61,14 @@ if (message.guild.id != '400355776717127690') {
 	}
 
 }
+
+	// , ``vote`` ``invite``, 
+	// , ``changepref``, ``setHi``, ``setBye``
+	//
+	//
+	// , ``mute/unmute``, ``ban/unban`` ``setting``, ,``kick``, ``softban``, ``report``
+	//``guildroles``, 
+	//
 };
 module.exports.help = {
 	name: 'help',
