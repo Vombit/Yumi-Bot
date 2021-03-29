@@ -34,6 +34,7 @@ fs.readdir('./cmd/', (err, files) => {
 // botReady
 bot.on('ready', async () => {
 	console.log(`Приветик, всё в норме`);
+	/*
 	const statuses = [
 		'Yumi | Technical Works | .help',
 		'Use | Restricted Mode | .help',
@@ -41,7 +42,7 @@ bot.on('ready', async () => {
 	setInterval(function() {
 		const status = statuses[Math.floor(Math.random() * statuses.length)];
 		bot.user.setActivity(status, { type: 'WATCHING' });
-	}, 15 * 1000);
+	}, 15 * 1000);*/
 });
 // /botReady
 
