@@ -34,15 +34,7 @@ fs.readdir('./cmd/', (err, files) => {
 // botReady
 bot.on('ready', async () => {
 	console.log(`Приветик, всё в норме`);
-	/*
-	const statuses = [
-		'Yumi | Technical Works | .help',
-		'Use | Restricted Mode | .help',
-	];
-	setInterval(function() {
-		const status = statuses[Math.floor(Math.random() * statuses.length)];
-		bot.user.setActivity(status, { type: 'WATCHING' });
-	}, 15 * 1000);*/
+
 });
 // /botReady
 
@@ -50,19 +42,6 @@ bot.on('ready', async () => {
 
 bot.on('message', async message => {
 	
-	// log_dm_mess
-	if (message.channel.type === 'dm') {
-		if(message.author.bot) return;
-		bot.channels.cache.get('814852912052306011').send(
-			new Discord.MessageEmbed()
-				.setTitle('Сообщение от ' + message.author.tag + ` [${message.author.id}]`)
-				.setDescription(message.content)
-				.setTimestamp()
-				.setColor('ff6600'),
-		);
-		message.reply('Sorry, but I can not answer in private conversations (if you want to ask a question, then join the support channel) \n https://discord.gg/5xMZ3zA');
-	}
-	// /log_dm_mess
 	if(message.author.bot || message.channel.type === 'dm') return;
 
 
